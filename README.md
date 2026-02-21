@@ -12,6 +12,5 @@ This repository contains my **AutoCAD drawings and design projects** created as 
 
 ## ⭐ Note
 GitHub may not preview `.dwg` files directly, so check the **PDF/PNG previews** for quick viewing.
-
 ---
 📌 Maintained by: **Sai Subhash**
